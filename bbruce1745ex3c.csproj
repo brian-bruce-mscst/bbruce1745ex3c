@@ -67,7 +67,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
+    <Content Include="about.html" />
+    <Content Include="carpentry.html" />
+    <Content Include="contact.html" />
+    <Content Include="custom.css" />
+    <Content Include="drywall.html" />
+    <Content Include="electrical.html" />
+    <Content Include="home.html" />
+    <Content Include="images\5-diy-methods-for-unclogging-clogged-toilet-without-plunger.w1456.jpg" />
+    <Content Include="images\BioPhoto.jpg" />
+    <Content Include="images\carpenter_plane.jpg" />
+    <Content Include="images\CarpentryHeaderImage.jpg" />
+    <Content Include="images\circular_saw.jpg" />
+    <Content Include="images\drywall.jpg" />
+    <Content Include="images\drywallHeader.PNG" />
+    <Content Include="images\ElectricalHeaderImage.jpg" />
+    <Content Include="images\flooring.jpg" />
+    <Content Include="images\HeaderPhoto.jpg" />
+    <Content Include="images\Old-Hardware-title.jpg" />
+    <Content Include="images\oldworkshop.jpg" />
+    <Content Include="images\plumbingHeader.PNG" />
+    <Content Include="images\PlumbingHeaderImage.jpg" />
+    <Content Include="images\sweatingCopper.PNG" />
+    <Content Include="images\toolbox.jpg" />
+    <Content Include="images\woodchisels.jpg" />
+    <Content Include="images\woodshed.jpg" />
+    <Content Include="plumbing.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
