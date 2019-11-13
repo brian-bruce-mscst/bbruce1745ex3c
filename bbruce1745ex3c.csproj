@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bios.html" />
     <Content Include="about.html" />
     <Content Include="carpentry.html" />
     <Content Include="contact.html" />
@@ -79,6 +80,7 @@
     <Content Include="images\carpenter_plane.jpg" />
     <Content Include="images\CarpentryHeaderImage.jpg" />
     <Content Include="images\circular_saw.jpg" />
+    <Content Include="images\Colin.JPG" />
     <Content Include="images\drywall.jpg" />
     <Content Include="images\drywallHeader.PNG" />
     <Content Include="images\ElectricalHeaderImage.jpg" />
@@ -93,6 +95,7 @@
     <Content Include="images\woodchisels.jpg" />
     <Content Include="images\woodshed.jpg" />
     <Content Include="plumbing.html" />
+    <Content Include="Requirements.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
